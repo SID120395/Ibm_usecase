@@ -127,7 +127,7 @@ package object utils {
       .option("driver", "com.mysql.jdbc.Driver")
       .option("dbtable", "table_name") //unable to create table
       .option("user", "xnk60050")
-      .option("password", "bgn5810m+gg720g7")
+      .option("","")
       .mode("Append")
       .save()
   }
